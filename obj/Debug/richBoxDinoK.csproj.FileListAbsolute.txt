@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.Form1.resources
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\richBoxDinoK\bin\Debug\richBoxDinoK.exe.config
+C:\Users\ucenik\source\repos\richBoxDinoK\bin\Debug\richBoxDinoK.exe
+C:\Users\ucenik\source\repos\richBoxDinoK\bin\Debug\richBoxDinoK.pdb
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.exe
+C:\Users\ucenik\source\repos\richBoxDinoK\obj\Debug\richBoxDinoK.pdb
